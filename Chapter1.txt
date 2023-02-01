@@ -1,1 +1,10 @@
 It was the best of time, Thanks God.
+
+
+* git init
+* ls -a
+* git status
+* git add Chapter1.txt
+* git status
+* git commit -m"Completed chapter 1"
+* git log

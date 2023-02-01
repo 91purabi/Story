@@ -8,3 +8,12 @@ It was the best of time, Thanks God.
 * git status
 * git commit -m"Completed chapter 1"
 * git log
+* git add .
+* git diff (if something you messed up)
+* git checkout Chapter3.txt
+* git remote add origin https://github.com/91purabi/Story.git
+* git push -u origin master
+* git rm --cached -r .
+* git clone ........
+* git branch
+
